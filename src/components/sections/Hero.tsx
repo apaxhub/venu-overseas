@@ -76,7 +76,7 @@ export function Hero() {
                             </Button>
                         </Link>
                         <Link href="/products">
-                            <Button size="lg" variant="outline" className="rounded-full px-8 border-border text-fg hover:bg-surface hover:border-fg/20 transition-all">
+                            <Button size="lg" variant="outline" className="rounded-full px-8 border-border text-fg hover:bg-surface hover:border-fg/50 bg-surface/50 transition-all">
                                 MRL Compliant Specs
                             </Button>
                         </Link>
