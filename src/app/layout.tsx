@@ -5,9 +5,9 @@ import { Footer } from "@/components/layout/Footer";
 import { StickyCTA } from "@/components/layout/StickyCTA";
 
 export const metadata: Metadata = {
-  title: "Tattvam Agri Export | Premium Indian Spices & Agro Commodities",
+  title: "Venu Overseas | Premium Indian Spices & Agro Commodities",
   description:
-    "Tattvam Agri Export — FSSAI, HACCP, ISO & KOSHER certified Indian agri exporter from Visnagar, Gujarat. Bulk spices, oil seeds, millets & dehydrated products exported to 11+ countries.",
+    "Venu Overseas — FSSAI, HACCP, ISO & KOSHER certified Indian agri exporter from Visnagar, Gujarat. Bulk spices, oil seeds, millets & dehydrated products exported to 11+ countries.",
   keywords: [
     "Indian agri exporter",
     "spices export India",
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     "Gujarat agri export company",
   ],
   openGraph: {
-    title: "Tattvam Agri Export | Premium Indian Spices & Agro Commodities",
+    title: "Venu Overseas | Premium Indian Spices & Agro Commodities",
     description: "FSSAI, HACCP, ISO & KOSHER certified Indian agri exporter from Visnagar, Gujarat.",
     type: "website",
   },
